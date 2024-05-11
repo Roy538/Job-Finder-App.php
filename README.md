@@ -26,3 +26,7 @@ To set up the job website locally, follow these steps:
 - Employers: Register as an employer, post job listings, manage postings, and review applications from job seekers via the employer dashboard.
 # Contributing
 Contributions to the development of this job website are welcome! Feel free to fork the repository, make improvements or add new features, and submit pull requests.
+
+# Preview
+![](home.png)
+![](Screenshot_about.png)
