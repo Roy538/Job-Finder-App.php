@@ -30,3 +30,5 @@ Contributions to the development of this job website are welcome! Feel free to f
 # Preview
 ![](home.png)
 ![](Screenshot_about.png)
+![](Screenshot_jobtype.png)
+![](Screenshot_contact.png)
